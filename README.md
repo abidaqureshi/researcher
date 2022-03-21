@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-### Stack prerequisite
+### Stack pre-requisite
 
 - [Node v16.0.0](https://nodejs.org/en/)
 - Npm v7.10.0
